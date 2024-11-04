@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Area_Triangulo_OO" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Area_Triangulo_SemOO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aula_Vetores" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ProjetoEstoque" vcs="Git" />
   </component>
 </project>
